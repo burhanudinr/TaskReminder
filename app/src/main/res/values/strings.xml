@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task Reminder</string>
+    <string name="id">Id</string>
+    <string name="nama">Nama</string>
+    <string name="dsc">Deskripsi</string>
+    <string name="tvTimeStamp">Waktu</string>
+    <string name="btnTambah">Tambah</string>
+    <string name="btnHapus">Hapus</string>
+</resources>
